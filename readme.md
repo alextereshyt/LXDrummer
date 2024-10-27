@@ -30,8 +30,8 @@ alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 
 | Encoder Pin | ESP8266 IO       |
 |-------------|-----------------|
-| +           | Connect to 3.3V |
-| GND         | Connect to GND  |
+| +           |            3.3V |
+| GND         |            GND  |
 | CLK         | GPIO 5          |
 | DT          | GPIO 4          |
 | SW          | GPIO 0          |
@@ -40,8 +40,8 @@ alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 
 | Matrix Pin  | ESP8266 IO      |
 |-------------|-----------------|
-| VCC         | Connect to 3.3V |
-| GND         | Connect to GND  |
+| VCC         | 3.3V |
+| GND         | GND  |
 | CLK         | GPIO 14         |
 | CS          | GPIO 16         |
 | DIN         | GPIO 13         |
