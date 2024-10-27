@@ -23,12 +23,12 @@ alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 | MTDO         | IO 15       | BCK         |
 | U0RXD        | IO 3        | DIN         |
 | GPIO2        | IO 2        | LCK         |
-| Connect to 3.3V | VIN       |             |
-| Connect to GND  | GND       |             |
+| Connect to 3.3V | 3.3V    |  VIN            |
+| Connect to GND  | GND       |   GND          |
 
 ### Encoder Connections
 
-| Encoder Pin | Connection      |
+| Encoder Pin | ESP8266 IO       |
 |-------------|-----------------|
 | +           | Connect to 3.3V |
 | GND         | Connect to GND  |
