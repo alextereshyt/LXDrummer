@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-This project was based on this interesting article https://www.hackster.io/janost/audio-hacking-on-the-esp8266-fa9464. Thx to author)
+This project was based on this interesting article https://www.hackster.io/janost/audio-hacking-on-the-esp8266-fa9464. Thx to author)<br>
 Enjoy creating music with LXDrummer! If you have any questions or need assistance, please open an issue on the GitHub repository.
 
 ---
