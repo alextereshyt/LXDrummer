@@ -18,13 +18,13 @@ alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 
 ### ESP8266 to PCM5102A DAC
 
-| ESP8266 Name | ESP8266 IO | PCM5102 Pin |
-|--------------|-------------|-------------|
-| MTDO         | IO 15       | BCK         |
-| U0RXD        | IO 3        | DIN         |
-| GPIO2        | IO 2        | LCK         |
-| Connect to 3.3V | 3.3V    |  VIN            |
-| Connect to GND  | GND       |   GND          |
+| PCM5102 Pin | ESP8266 IO  |
+|-------------|-------------|
+| BCK         | IO 15       |
+| DIN         | IO 3        |
+| LCK         | IO 2        |
+| VIN         | 3.3V        |
+| GND         | GND         |
 
 ### Encoder Connections
 
