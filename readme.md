@@ -1,4 +1,4 @@
-# LXDrummer: A Simple Drum Machine
+# LXDrummer: ESP8266 Drum Machine
 
 LXDrummer is a straightforward drum machine based on the ESP8266, featuring an 8x8 LED matrix display controlled by a rotary encoder. This project allows you to create and play drum patterns with an intuitive interface.
 
@@ -40,6 +40,8 @@ alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 
 | Matrix Pin  | ESP8266 IO      |
 |-------------|-----------------|
+| VCC         | Connect to 3.3V |
+| GND         | Connect to GND  |
 | CLK         | GPIO 14         |
 | CS          | GPIO 16         |
 | DIN         | GPIO 13         |
