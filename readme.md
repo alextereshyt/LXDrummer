@@ -7,8 +7,8 @@ LXDrummer is a straightforward drum machine based on the ESP8266, featuring an 8
 
 <img src="https://github.com/user-attachments/assets/cbc0b3d4-eed5-4a80-9fc3-b5856abf3cac" width=500px/>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fs34gqKAlCA
-" target="_blank"><img src="http://img.youtube.com/vi/fs34gqKAlCA/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kWdRLZGJ204
+" target="_blank"><img src="http://img.youtube.com/vi/kWdRLZGJ204/0.jpg" 
 alt="LXDrummer Demo" width="240" height="180" border="10" /></a>
 
 ## Modules Used
