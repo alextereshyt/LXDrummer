@@ -3,7 +3,7 @@
 LXDrummer is a straightforward drum machine based on the ESP8266, featuring an 8x8 LED matrix display controlled by a rotary encoder. This project allows you to create and play drum patterns with an intuitive interface.
 
 # Media
-![IMG_20241029_192923](https://github.com/user-attachments/assets/6d6be5c8-64de-4f7e-9f76-eddc274dd17c)
+<img src="https://github.com/user-attachments/assets/6d6be5c8-64de-4f7e-9f76-eddc274dd17c" width=700px/>
 
 ![image](https://github.com/user-attachments/assets/cbc0b3d4-eed5-4a80-9fc3-b5856abf3cac)
 
